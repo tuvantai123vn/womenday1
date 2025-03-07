@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/womenday1/static/css/main.d1f68042.css",
+    "main.js": "/womenday1/static/js/main.71666ec4.js",
+    "static/js/453.9444bf89.chunk.js": "/womenday1/static/js/453.9444bf89.chunk.js",
+    "index.html": "/womenday1/index.html",
+    "main.d1f68042.css.map": "/womenday1/static/css/main.d1f68042.css.map",
+    "main.71666ec4.js.map": "/womenday1/static/js/main.71666ec4.js.map",
+    "453.9444bf89.chunk.js.map": "/womenday1/static/js/453.9444bf89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f68042.css",
+    "static/js/main.71666ec4.js"
+  ]
+}
